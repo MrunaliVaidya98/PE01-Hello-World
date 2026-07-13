@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PE01 Hello World",
+    "slug": "pe01-hello-world",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.mrunalivaidya.pe01helloworld"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mrunalivaidya.pe01helloworld"
+    }
+  }
+}
